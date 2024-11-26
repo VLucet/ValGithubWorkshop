@@ -9,3 +9,5 @@ library(bayesplot)
 myvar <- rnorm(1)
 myvar2 <- rnorm(1)
 myvar3 <- rnorm(1)
+
+#Claudia doesn't like this script
