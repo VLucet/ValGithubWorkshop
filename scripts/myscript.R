@@ -7,3 +7,4 @@ library(bayesplot)
 
 # Starting with random variable
 myvar <- rnorm(1)
+myvar2 <- rnorm(1)
