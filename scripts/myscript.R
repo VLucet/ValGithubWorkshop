@@ -5,4 +5,5 @@ library(tidyverse)
 library(sf)
 library(bayesplot)
 
-myvar <- 4
+# Starting with random variable
+myvar <- rnorm(1)
