@@ -2,3 +2,9 @@
 .Rhistory
 .RData
 .Ruserdata
+
+# Data folder to be ignored
+data/
+
+# test file to ignore
+test.R
