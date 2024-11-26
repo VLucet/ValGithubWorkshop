@@ -6,5 +6,3 @@ library(sf)
 library(bayesplot)
 
 myvar <- 4
-
-hdwhfhbiwefbiwef
